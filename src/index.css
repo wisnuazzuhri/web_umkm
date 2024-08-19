@@ -13,5 +13,6 @@
 }
 
 #home {
-  background-image: url("");
+  background-image: url("asset/wqo.svg");
+  background-size: cover;
 }
