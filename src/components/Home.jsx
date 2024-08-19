@@ -1,12 +1,15 @@
 import React from "react";
+import { Button } from "flowbite-react";
 
 const Home = () => {
   return (
     <div id="home" className="w-full h-screen px-10 lg:px-[72px]">
-      <div className="h-screen max-w-[700px] flex flex-col justify-center">
-        <h1 className="font-bold text-orange text-[20px]">Selamat Datang</h1>
-        <h1>Rumah Bisnis Mandiri</h1>
-        <p>
+      <div className="h-screen max-w-[700px] flex flex-col justify-center gap-y-4">
+        <h1 className="font-bold text-orange text-[30px]">Rumah UMKM</h1>
+        <h1 className="font-bold text-3xl">
+          Digitalisasi UMKM Griya Praja Indah
+        </h1>
+        <p className="text-gray-500 max-w-[500px] text-justify">
           Lorem Ipsum is simply dummy text of the printing and typesetting
           industry. Lorem Ipsum has been the industry's standard dummy text ever
           since the 1500s, when an unknown printer took a galley of type and
@@ -18,7 +21,9 @@ const Home = () => {
           including versions of Lorem Ipsum.
         </p>
         <div>
-          <button>PROFIL KAMI</button>
+          <Button color="blue" size="lg" pill>
+            Profil Kami
+          </Button>
         </div>
       </div>
     </div>

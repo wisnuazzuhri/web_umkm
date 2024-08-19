@@ -12,7 +12,7 @@ const CustomNavbar = () => {
         >
           <img src={logo} className="h-8" alt="" />
           <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
-            Rumah Bisnis Mandiri
+            RUMAH UMKM
           </span>
         </a>
         <button
