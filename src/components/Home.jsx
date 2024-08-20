@@ -5,11 +5,12 @@ const Home = () => {
   return (
     <div id="home" className="w-full h-screen px-10 lg:px-[72px]">
       <div className="h-screen max-w-[700px] flex flex-col justify-center gap-y-4">
-        <h1 className="font-bold text-orange text-[20px]">
+        <h1 className="font-bold text-orange text-[30px]">
           Selamat Datang Di Rumah UMKM!
         </h1>
-        <h1 className="font-bold text-4xl">
-          Pengembangan Digitalisasi UMKM Perumahan Griya Praja Indah berbasis Web
+        <h1 className="font-bold text-3xl">
+          Pengembangan Digitalisasi UMKM Perumahan Griya Praja Indah berbasis
+          Web
         </h1>
         <p className="text-gray-500 max-w-[500px] text-justify">
           Lorem Ipsum is simply dummy text of the printing and typesetting
