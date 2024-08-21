@@ -2,6 +2,7 @@ import Home from "./components/Home";
 import Berita from "./components/Berita";
 import Profil from "./components/Profil";
 import CustomNavbar from "./components/Navbar";
+import Credit from "./components/Credit";
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <Home />
       <Berita />
       <Profil />
+      <Credit />
     </div>
   );
 }

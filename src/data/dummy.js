@@ -35,49 +35,64 @@ export const navLink = [
 export const features = [
   {
     image: miniOne,
-    title: "Get The Right A Doctor",
-    desc: "Choose the best doctor form around the world ",
+    title: "Kegiatan 1",
+    desc: "Deskripsi singkat kegiatan",
   },
   {
     image: miniTwo,
-    title: "Get The Right A Doctor",
-    desc: "Choose the best doctor form around the world ",
+    title: "Kegiatan 2",
+    desc: "Deskripsi singkat kegiatan",
   },
   {
     image: miniThree,
-    title: "Get The Right A Doctor",
-    desc: "Choose the best doctor form around the world ",
+    title: "Kegiatan 3",
+    desc: "Deskripsi singkat kegiatan",
+  },
+  {
+    image: miniThree,
+    title: "Kegiatan 4",
+    desc: "Deskripsi singkat kegiatan",
+  },
+  {
+    image: miniThree,
+    title: "Kegiatan 5",
+    desc: "Deskripsi singkat kegiatan",
+  },
+  {
+    image: miniThree,
+    title: "Kegiatan 6",
+    desc: "Deskripsi singkat kegiatan",
   },
 ];
-export const sakit = [
+export const profil = [
   {
     image: orangSakit,
-    title: "Flue",
-    desc: "panas, demam",
+    title: "Anggota 1",
+    desc: "Posisi",
   },
   {
     image: sakitPerut,
-    title: "sakit perut",
-    desc: "perut mual, muntah-muntah",
+    title: "Anggota 2",
+    desc: "Posisi",
   },
   {
     image: kakiPatah,
-    title: "patah Kaki",
-    desc: "sakit pada pergelangan kaki",
+    title: "Anggota 3",
+    desc: "Posisi",
   },
   {
     image: sakitKepala,
-    title: "Flue",
-    desc: "Pusing, migran",
+    title: "Anggota 4",
+    desc: "Posisi",
   },
   {
     image: darahRendah,
-    title: "darah rendah",
-    desc: "migran ketika baru bangun, badan serasa mau pingsan , mata kabur",
+    title: "Anggota 5",
+    desc: "Posisi",
   },
   {
     image: orangSakit,
-    title: "Flue",
-    desc: "panas, demam",
+    title: "Anggota 6",
+    desc: "Posisi",
   },
 ];
